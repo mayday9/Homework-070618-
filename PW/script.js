@@ -1,4 +1,4 @@
-//Задание 1
+//todo Задание 1
 
 /*var start, counter, summ=0;
 
@@ -15,7 +15,7 @@ for(counter; counter<=500; counter++){
 }
 alert("Сумма целых чисел от: "+start+" до 500 равна "+summ);*/
 
-/*Задание 2
+/* todo Задание 2
 
 var x, y, summ;
 
@@ -26,7 +26,7 @@ summ=Math.pow(x, y);
 
 alert(x+" в степени "+y+" равен: "+summ); */
 
-//Задание 3
+//todo Задание 3
 
 /*var counter, summ=0, average;
 
@@ -38,7 +38,7 @@ for(counter=1; counter<=1000; counter++){
 average=summ/1000;
 alert("Среднее арифметическое целых чисел от 1 до 1000 равна: "+average);*/
 
-//Задание 4
+//todo Задание 4
 
 var start, counter, summ;
 
